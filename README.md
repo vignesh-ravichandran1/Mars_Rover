@@ -1,4 +1,4 @@
-# Mars Rover (Candidate Description)
+# Mars Rover
 
 ## Problem Statement:
 
